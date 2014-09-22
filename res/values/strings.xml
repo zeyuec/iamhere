@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app -->
+    <string name="app_name">IamHere</string>
+
+    <!-- main -->
+    <string name="main_edittext_username_hint">Please Input Your Name</string>
+    <string name="main_button_login">Login</string>
+    <string name="main_button_login_click_username_empty">User name is empty.</string>
+
+    <!-- home -->
+
+    <!-- online -->
+    
+</resources>
